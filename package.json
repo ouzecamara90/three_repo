@@ -1,0 +1,8 @@
+{
+  "bin": "main.go",
+  "name": "  ",
+  "author": "ousmane",
+  "description": "npx",
+  "version": "10.14.0",
+  "license": "clear"
+}
